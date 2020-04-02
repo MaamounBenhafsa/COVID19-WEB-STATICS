@@ -1,6 +1,6 @@
 # Covid-19 (PHP API) WIBSITE TO GET COVID-19 STATISTICS
 
-![N|Solid](screenshoot.png)
+![N|Solid](screnshoot.png)
 
 
 
